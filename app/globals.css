@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+  @apply bg-blue-500 hover:bg-blue-600 transition text-white rounded-full w-full p-2;
+}
