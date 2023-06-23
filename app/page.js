@@ -1,7 +1,7 @@
-import SingerForm from "@/components/singerForm"
+import SingerForm from "@/components/singerForm";
 
 export default function Home() {
   return (
-   <SingerForm/>
-  )
+    <SingerForm/>
+  );
 }

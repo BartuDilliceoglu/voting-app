@@ -6,7 +6,7 @@ export default function SingerForm() {
           <div className="p-5 bg-blue-200 shadow-md shadow-blue-100 rounded-md mx-auto w-1/2">
             <div>
               
-                <h1 className="text-3xl text-center mb-5 text-blue-500">Singer Voting Form</h1>
+              <h1 className="text-3xl text-center mb-5 text-blue-500">Singer Voting Form</h1>
               
               <form>
                 <div className="flex gap-3 flex-col">
